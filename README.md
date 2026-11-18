@@ -13,7 +13,7 @@ I'm a second-year **Computer Science and Mathematics student at Durham Universit
 ### About me
 
 ```javascript
-const axel = {
+const Axel = {
   education: "Computer Science & Mathematics @ Durham University",
   interests: [
     "Software Engineering",
@@ -57,10 +57,9 @@ const axel = {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqlite/sqlite.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
+<code><img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="SQLite"></code>
+<code><img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="Pandas"></code>
+<code><img src="https://cdn.simpleicons.org/github/181717" height="30" alt="GitHub"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 </div>
 
@@ -73,8 +72,3 @@ const axel = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uint65&repo=multipaint&theme=swift)](https://github.com/uint65/multipaint)
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AxelTettenbornDurham&show_icons=true&theme=swift&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelTettenbornDurham&layout=compact&theme=swift&hide_border=true" height="150">
-</div>
