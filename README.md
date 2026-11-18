@@ -16,36 +16,22 @@ I'm a second-year **Computer Science and Mathematics student at Durham Universit
 const Axel = {
   education: "Computer Science & Mathematics @ Durham University",
   interests: [
-    "Software Engineering",
-    "Data Science & Analysis",
-    "Artificial Intelligence",
-    "Full-Stack Development",
-    "Algorithms & Problem Solving"
+    "Software Engineering", "Data Science & Analysis", "Artificial Intelligence",
+    "Full-Stack Development", "Algorithms & Problem Solving"
   ],
   languages: [
-    "Python",
-    "C#",
-    "JavaScript",
-    "TypeScript",
-    "SQL",
-    "HTML",
-    "CSS"
+    "Python", "C#", "JavaScript",
+    "TypeScript", "SQL", "HTML", "CSS"
   ],
   tools: [
-    "Git",
-    "GitHub",
-    "SQLite",
-    "Pandas",
-    "Unity",
-    "p5.js"
+    "Git", "GitHub", "SQLite", "Pandas", "Unity", "p5.js"
   ],
   experience: [
-    "Application Development",
-    "Object-Oriented Programming",
-    "Database Design",
-    "Scientific Data Analysis"
+    "Application Development", "Object-Oriented Programming",
+    "Database Design", "Scientific Data Analysis"
   ],
   currently: "Developing my software engineering skills and exploring AI"
+          "~ Working through Machine Learning fundamentals and Leading a team project for a client"
 };
 ```
 
